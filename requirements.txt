@@ -1,0 +1,8 @@
+langchain-community
+llms
+PIL
+numpy
+dotenv
+streamlit
+easyocr
+os
